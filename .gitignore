@@ -1,0 +1,19 @@
+# Python environments
+.venv/
+venv/
+.env
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/
+data/processed/
+
+# Generated model files
+models/
