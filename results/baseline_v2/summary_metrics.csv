@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1,training_subjects,testing_subjects
+V2 Logistic Regression,0.8857548260118319,0.6694394708593185,0.6823167232075685,62,16
